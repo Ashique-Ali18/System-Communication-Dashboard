@@ -12,7 +12,7 @@ No real messages are sent — it only stores database entries and displays them 
 
 \## Demo Video
 
-\- demo/Internship\_task.mp4 (download from this repo)
+\- https://github.com/Ashique-Ali18/System-Communication-Dashboard/blob/main/demo/Internship\_task.mp4
 
 
 
