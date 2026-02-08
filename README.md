@@ -14,7 +14,7 @@ No real messages are sent — it only stores database entries and displays them 
 
 \- View on GitHub: https://github.com/Ashique-Ali18/System-Communication-Dashboard/blob/main/demo/Internship\_task.mp4
 
-\- Direct download: https://github.com/Ashique-Ali18/System-Communication-Dashboard/blob/main/demo/Internship\_task.mp4?raw=1
+\- Download: https://github.com/Ashique-Ali18/System-Communication-Dashboard/blob/main/demo/Internship\_task.mp4?raw=1
 
 
 
