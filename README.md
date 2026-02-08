@@ -20,13 +20,11 @@ Built with a focus on clean UI, structured APIs, and real-world admin dashboard 
 ## Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
 
 ### SMS Logs
-![SMS](screenshots/sms-dashboard.png)
 
 ### WhatsApp Logs
-![WhatsApp](screenshots/whatsapp-dashboard.png)
+
 
 
 
