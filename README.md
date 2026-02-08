@@ -17,13 +17,14 @@ Built with a focus on clean UI, structured APIs, and real-world admin dashboard 
 \- demo/Internship\_task.mp4 (download from this repo)
 
 
+
 \## Screenshots
 
-### Dashboard
+\### Dashboard
 
-### SMS Logs
+\### SMS Logs
 
-### WhatsApp Logs
+\### WhatsApp Logs
 
 
 
@@ -49,11 +50,11 @@ Built with a focus on clean UI, structured APIs, and real-world admin dashboard 
 
 \## Architecture
 
-Frontend (Bootstrap + JS)
+\-Frontend (Bootstrap + JS)
         ↓
-PHP API Layer
+\-PHP API Layer
         ↓
-MySQL Database
+\-MySQL Database
 
 
 
@@ -93,5 +94,5 @@ MySQL Database
 
 \- POST: api/delete.php
 
-## Author
-Mohammed Ashique Ali
+\## Author
+\-Mohammed Ashique Ali
