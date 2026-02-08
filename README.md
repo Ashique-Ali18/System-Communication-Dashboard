@@ -17,7 +17,7 @@ Built with a focus on clean UI, structured APIs, and real-world admin dashboard 
 \- demo/Internship\_task.mp4 (download from this repo)
 
 
-## Screenshots
+\## Screenshots
 
 ### Dashboard
 
@@ -47,7 +47,7 @@ Built with a focus on clean UI, structured APIs, and real-world admin dashboard 
 \- Export CSV
 
 
-## Architecture
+\## Architecture
 
 Frontend (Bootstrap + JS)
         ↓
