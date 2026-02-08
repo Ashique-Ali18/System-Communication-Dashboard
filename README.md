@@ -1,4 +1,5 @@
-\# System Communication Dashboard (Internship Assignment)
+\# System Communication Dashboard
+Full Stack Web Application
 
 
 
@@ -7,12 +8,25 @@
 A full-stack dashboard to log system communications (Email / SMS / WhatsApp).
 
 No real messages are sent — it only stores database entries and displays them in tabbed list views.
+Built with a focus on clean UI, structured APIs, and real-world admin dashboard behavior.
 
 
 
 \## Demo Video
 
 \- demo/Internship\_task.mp4 (download from this repo)
+
+
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### SMS Logs
+![SMS](screenshots/sms-dashboard.png)
+
+### WhatsApp Logs
+![WhatsApp](screenshots/whatsapp-dashboard.png)
 
 
 
@@ -33,6 +47,15 @@ No real messages are sent — it only stores database entries and displays them 
 \- Delete with confirmation
 
 \- Export CSV
+
+
+## Architecture
+
+Frontend (Bootstrap + JS)
+        ↓
+PHP API Layer
+        ↓
+MySQL Database
 
 
 
@@ -72,3 +95,5 @@ No real messages are sent — it only stores database entries and displays them 
 
 \- POST: api/delete.php
 
+## Author
+Mohammed Ashique Ali
